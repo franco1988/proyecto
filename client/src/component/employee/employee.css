@@ -1,0 +1,10 @@
+.empleado{
+    width: 400px;
+    margin-top: 10px;
+    color:white;
+    background-color: rgb(0, 29, 124);
+}
+.cuerpo{
+    display: flex;
+    justify-content: center;
+}
